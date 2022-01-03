@@ -1,4 +1,5 @@
-﻿#include<iostream>
+//اذا مررت من هنا فادعوا الله ان ييسر لي امري...ويصلي لي شاني﻿
+#include<iostream>
 using namespace std;
 #define maxsize 100
 int top = -1;
